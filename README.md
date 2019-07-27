@@ -1,8 +1,8 @@
-*  小浣熊干脆面水浒英雄卡册  https://congliu-cn.github.io/WaterMargin/
+ *  小浣熊干脆面水浒英雄卡册  https://congliu-cn.github.io/WaterMargin/
 
-** 纪念童年的美好回忆。
+ ** 纪念童年的美好回忆。
 
-*** Version 1.0
+ *** Version 1.0
 
 ***
 曾经风靡全国的收集水浒卡游戏，
