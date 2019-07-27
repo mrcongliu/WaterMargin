@@ -1,0 +1,9 @@
+.card-list {
+  margin: 0 auto;
+  border-radius: 1rem;
+  background-color: transparent;
+  width: 85vw;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
