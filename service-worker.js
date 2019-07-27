@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/WaterMargin/precache-manifest.2f3f9ca2fd7a045d8643c41b1fb60ef5.js"
+  "/WaterMargin/precache-manifest.72f1ddbfd990497abd52ed841eac94ed.js"
 );
 
 self.addEventListener('message', (event) => {

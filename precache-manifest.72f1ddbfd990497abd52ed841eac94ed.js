@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c9f5cd8a938d3360277338ca8837c6a",
+    "revision": "cd37c6f5e9daabd3c0837cdd165f43b5",
     "url": "/WaterMargin/index.html"
   },
   {
-    "revision": "dc8f4cf6423d2480a0e1",
-    "url": "/WaterMargin/static/css/main.33d397e4.chunk.css"
+    "revision": "ffd0a3cecef1bcef7f67",
+    "url": "/WaterMargin/static/css/main.48512428.chunk.css"
   },
   {
     "revision": "ffbe32d4e790e6a5d2f2",
     "url": "/WaterMargin/static/js/2.335f0c66.chunk.js"
   },
   {
-    "revision": "dc8f4cf6423d2480a0e1",
-    "url": "/WaterMargin/static/js/main.044983b9.chunk.js"
+    "revision": "ffd0a3cecef1bcef7f67",
+    "url": "/WaterMargin/static/js/main.4bb4195d.chunk.js"
   },
   {
     "revision": "2f5412ec09401d3a98fc",
